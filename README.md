@@ -1,5 +1,5 @@
-# Slicing Shopee Pay Flutter
+# Cloning Shopee Pay 
 
-Project Ini Slicing Mobile App Shopee Pay Menggunakan Flutter.
+## 1. Login Page.
 
 ![App Screenshot](/lib/images/ss/result-app.png);
